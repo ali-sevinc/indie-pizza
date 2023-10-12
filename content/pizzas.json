@@ -1,0 +1,52 @@
+{
+  "pizzas": [
+    {
+      "id": "p1",
+      "name": "Focaccia",
+      "ingredients": "Bread with italian olive oil and rosemary",
+      "price": 6,
+      "image": "/images/focaccia.jpg",
+      "soldOut": false
+    },
+    {
+      "id": "p2",
+      "name": "Pizza Margherita",
+      "ingredients": "Tomato and mozarella",
+      "price": 10,
+      "image": "/images/margherita.jpg",
+      "soldOut": false
+    },
+    {
+      "id": "p3",
+      "name": "Pizza Spinaci",
+      "ingredients": "Tomato, mozarella, spinach, and ricotta cheese",
+      "price": 12,
+      "image": "/images/spinaci.jpg",
+      "soldOut": false
+    },
+    {
+      "id": "p4",
+      "name": "Pizza Funghi",
+      "ingredients": "Tomato, mozarella, mushrooms, and onion",
+      "price": 12,
+      "image": "/images/funghi.jpg",
+      "soldOut": false
+    },
+    {
+      "id": "p5",
+      "name": "Pizza Salamino",
+      "ingredients": "Tomato, mozarella, and pepperoni",
+      "price": 15,
+      "image": "/images/salamino.jpg",
+      "soldOut": true
+    },
+    {
+      "id": "p6",
+      "name": "Pizza Prosciutto",
+      "ingredients": "Tomato, mozarella, ham, aragula, and burrata cheese",
+      "price": 18,
+      "image": "/images/prosciutto.jpg",
+      "soldOut": false
+    }
+  ]
+}
